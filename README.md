@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="600" src="https://wallpapercave.com/wp/wp2826030.jpg"  />
+  <img src="https://wallpapercave.com/wp/wp2826030.jpg"  />
 </div>
 
 ###
