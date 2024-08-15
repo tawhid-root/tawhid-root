@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Nahid Islam, and I'm a web developer from Bangladesh.</p>
+<p align="left">My name is Tawhid Islam, and I'm a web developer from Bangladesh.</p>
 
 ###
 
