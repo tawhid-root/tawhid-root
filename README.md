@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://wallpapercave.com/wp/wp2826030.jpg"  />
+  <img src="![profilePicture](https://github.com/user-attachments/assets/c4158be9-17aa-422d-982e-797a15150943)"  />
 </div>
+
 
 ###
 
