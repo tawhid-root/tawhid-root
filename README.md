@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="![Leonardo_Phoenix_A_modern_circular_logo_with_the_brand_name_ta_3](https://github.com/user-attachments/assets/97708c01-8e02-4fce-9490-b1f8d6f4b0aa)
-"  />
+  <img src="./tawhidRootLogo.jpg"  />
 </div>
 
 
