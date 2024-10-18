@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning JAVASCRIPT and PHP.<br>🎯 Goals: Learn how to make arivitiol intaliance, or AI.<br>🎲 Fun fact: I don't have any jobs, and I'm just a beginner.</p>
+<p align="left">📚 I'm currently learning JAVASCRIPT and PHP.<br>🎯 Goals: Learn how to make artificial intelligence, or AI.<br>🎲 Fun fact: I don't have any jobs, and I'm just a beginner.</p>
 
 ###
 
